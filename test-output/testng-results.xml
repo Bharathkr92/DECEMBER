@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25017" started-at="2021-11-25T14:39:09 IST" finished-at="2021-11-25T14:39:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25017" started-at="2021-11-25T14:39:09 IST" finished-at="2021-11-25T14:39:34 IST">
+      <class name="com.Oct_30_Mini_Project.Testng_Runner">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="browser_launch" duration-ms="9554" started-at="2021-11-25T14:39:09 IST" finished-at="2021-11-25T14:39:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="cartut()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="cartut" duration-ms="1323" started-at="2021-11-25T14:39:18 IST" finished-at="2021-11-25T14:39:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartut -->
+        <test-method status="PASS" signature="dress_select()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="dress_select" duration-ms="10512" started-at="2021-11-25T14:39:20 IST" finished-at="2021-11-25T14:39:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress_select -->
+        <test-method status="PASS" signature="gohome_page()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="gohome_page" duration-ms="37" started-at="2021-11-25T14:39:30 IST" finished-at="2021-11-25T14:39:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gohome_page -->
+        <test-method status="PASS" signature="logtn()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="logtn" duration-ms="2682" started-at="2021-11-25T14:39:30 IST" finished-at="2021-11-25T14:39:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logtn -->
+        <test-method status="PASS" signature="pay()[pri:0, instance:com.Oct_30_Mini_Project.Testng_Runner@7d94beb9]" name="pay" duration-ms="782" started-at="2021-11-25T14:39:33 IST" finished-at="2021-11-25T14:39:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pay -->
+      </class> <!-- com.Oct_30_Mini_Project.Testng_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
