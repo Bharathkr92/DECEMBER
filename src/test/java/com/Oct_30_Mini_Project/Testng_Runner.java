@@ -31,6 +31,7 @@ public class Testng_Runner extends Base_Class {
 		String dataFromExcel2 = DataFromExcel("C:\\Users\\krbch\\eclipse-workspace\\Oct_30_Mini_Project\\EXCEL\\Adactin.xlsx",7,0);
 		inputValueElement(pom.getInstancelg().getPwd(), dataFromExcel2 );
 		clickOnElement(pom.getInstancelg().getSigin());
+		
 	}
 	@Test(priority = 0)
 	private void gohome_page() {
@@ -41,7 +42,6 @@ public class Testng_Runner extends Base_Class {
 	@Test(priority = 1)
 	private void dress_select() throws Throwable {
 		clickOnElement(pom.getst().getWomen());
-
 		clickOnElement(pom.getse().getSelect());
 		clickOnElement(pom.getse().getSelect1());
 		clickOnElement(pom.getps().getCart());
@@ -76,3 +76,10 @@ public class Testng_Runner extends Base_Class {
 	}
 	
 }
+
+
+
+
+
+
+
